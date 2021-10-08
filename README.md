@@ -1,2 +1,2 @@
-# winniioiot
+# iotgateway
 winniio smart heat project
